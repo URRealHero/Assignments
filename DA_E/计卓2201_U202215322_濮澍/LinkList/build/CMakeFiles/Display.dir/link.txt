@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Display.dir/LList.cpp.o CMakeFiles/Display.dir/main.cpp.o  -o ../bin/Display 

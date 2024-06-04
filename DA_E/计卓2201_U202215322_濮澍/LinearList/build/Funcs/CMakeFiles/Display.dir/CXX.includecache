@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../lib/SQList.h
+cstdio
+-
+cstdlib
+-
+cstring
+-
+iostream
+-
+
+/home/pu/PuFiles/Experiment/DA_E/计卓2201_U202215322_濮澍/LinearList/src/main.cpp
+iostream
+-
+cstdio
+-
+cstdlib
+-
+ostream
+-
+string
+-
+SQList.h
+/home/pu/PuFiles/Experiment/DA_E/计卓2201_U202215322_濮澍/LinearList/src/SQList.h
+

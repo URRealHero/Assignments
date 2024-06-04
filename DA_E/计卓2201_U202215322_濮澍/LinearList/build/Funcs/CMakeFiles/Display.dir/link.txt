@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Display.dir/main.cpp.o  -o ../../bin/Display   -L/home/pu/PuFiles/Experiment/DA_E/计卓2201_U202215322_濮澍/LinearList/lib  -Wl,-rpath,/home/pu/PuFiles/Experiment/DA_E/计卓2201_U202215322_濮澍/LinearList/lib -Wl,-Bstatic -lFuncs -Wl,-Bdynamic 

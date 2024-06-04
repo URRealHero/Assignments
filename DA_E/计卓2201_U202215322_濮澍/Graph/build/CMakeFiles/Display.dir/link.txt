@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Display.dir/src/Sources.cpp.o CMakeFiles/Display.dir/src/main.cpp.o  -o ../bin/Display 

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pu/PuFiles/Experiment/DA_E/计卓2201_U202215322_濮澍/Graph/src/Graph.h
+iostream
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+
+/home/pu/PuFiles/Experiment/DA_E/计卓2201_U202215322_濮澍/Graph/src/Sources.cpp
+Graph.h
+/home/pu/PuFiles/Experiment/DA_E/计卓2201_U202215322_濮澍/Graph/src/Graph.h
+
+/home/pu/PuFiles/Experiment/DA_E/计卓2201_U202215322_濮澍/Graph/src/main.cpp
+Graph.h
+/home/pu/PuFiles/Experiment/DA_E/计卓2201_U202215322_濮澍/Graph/src/Graph.h
+

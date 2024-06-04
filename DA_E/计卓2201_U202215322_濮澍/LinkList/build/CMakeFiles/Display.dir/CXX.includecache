@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pu/PuFiles/Experiment/DA_E/计卓2201_U202215322_濮澍/LinkList/LList.cpp
+LinkList.h
+/home/pu/PuFiles/Experiment/DA_E/计卓2201_U202215322_濮澍/LinkList/LinkList.h
+cstddef
+-
+string
+-
+cstring
+-
+
+/home/pu/PuFiles/Experiment/DA_E/计卓2201_U202215322_濮澍/LinkList/LinkList.h
+iostream
+-
+cstdio
+-
+cstdlib
+-
+fstream
+-
+
+/home/pu/PuFiles/Experiment/DA_E/计卓2201_U202215322_濮澍/LinkList/main.cpp
+LinkList.h
+/home/pu/PuFiles/Experiment/DA_E/计卓2201_U202215322_濮澍/LinkList/LinkList.h
+cstdio
+-
+
